@@ -8,7 +8,7 @@
 
 ## Materials
 
-- IKEA Rödalm picture frame (15×13 cm)  
+- IKEA Rödalm picture frame (13x18 cm)  
 - WS2812B NeoPixel LED strip (60 LEDs/m)  
   - 3 to 5 strips with 9 LEDs each  
 - ESP32 (recommended: ESP32-S2 Mini)  
